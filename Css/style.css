@@ -1,0 +1,13 @@
+*{
+    width: 340px;
+}
+hr{
+    height: 10px;
+    width: 200px;
+    border-color: blue;
+    background-color: blue;
+}
+p{
+    text-align: left;
+    width: 340px;
+}
